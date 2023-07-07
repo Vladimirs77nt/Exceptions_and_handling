@@ -3,6 +3,7 @@
 
 import java.util.Random;
 
+
 public class DZ_1_1 {
     public static void main(String[] args) {
         Random random = new Random();
